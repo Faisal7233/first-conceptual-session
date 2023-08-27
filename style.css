@@ -6,3 +6,19 @@ h1{
 #aa{
     text-decoration: none;
 }
+.container{
+    display: flex;
+    justify-items:center;
+    justify-content: space-around;
+
+.box{
+    padding: 30px;
+    background-color: rgb(4, 231, 34);
+    width: 180px;
+}
+.box1{
+    background-color: rgb(15, 1, 207);
+}
+.box2{
+    background-color: rgb(199, 18, 18);
+}
